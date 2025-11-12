@@ -4,5 +4,6 @@ Estas são as alterações novas
 
 Esta é a alteração que vou anular.
 
-
 ALTERAÇÕES EFECTUADAS NO BRANCH NOVAFEATURE
+
+"Alterações em NovaFeature"
