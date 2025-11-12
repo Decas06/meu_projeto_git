@@ -9,3 +9,5 @@ ALTERAÇÕES EFECTUADAS NO BRANCH NOVAFEATURE
 "Alterações em NovaFeature"
 
 "ALTERAÇÃO EM MASTER"
+
+ALteração feita pelo João
