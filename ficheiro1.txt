@@ -1,1 +1,1 @@
-Este é o exemplo de um ficheiro de texto... Estas são as alterações novas
+Este é o exemplo de um ficheiro de texto... Estas são as alterações novas Esta é a alteração que vou anular.
